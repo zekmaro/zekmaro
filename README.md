@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=zekmaro&color=green)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-zekmaro-blue)]([https://www.linkedin.com/in/zekmaro](https://www.linkedin.com/in/andrey-arama-5a9521252/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-zekmaro-blue)]((https://www.linkedin.com/in/andrey-arama-5a9521252/))
 
 ## 💼 About Me:
 - 🔭 I’m currently working on 42 School and Personal Projects
