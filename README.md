@@ -7,7 +7,7 @@
 
 ## 💼 About Me:
 - 🔭 I’m currently working on 42 School and Personal Projects + Studying in TU Wien
-- 🌱 I’m currently learning Algos and Data Structures, Machine Learning, Python, C++, and Advanced Mathematics
+- 🌱 I’m currently learning Algos and Data Structures, Machine Learning, Python, C++, Low Level Development and Advanced Mathematics
 - 👯 I’m looking to collaborate on AI projects
 - 📫 How to reach me: [aramapsychology@gmail.com]
 
