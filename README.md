@@ -6,8 +6,8 @@
 [![LinkedIn]((https://www.linkedin.com/in/andrey-arama-5a9521252/))
 
 ## 💼 About Me:
-- 🔭 I’m currently working on 42 School and Personal Projects
-- 🌱 I’m currently learning Algos and Data Structures, Machine Learning, Python, C++
+- 🔭 I’m currently working on 42 School and Personal Projects + Studying in TU Wien
+- 🌱 I’m currently learning Algos and Data Structures, Machine Learning, Python, C++, and Advanced Mathematics
 - 👯 I’m looking to collaborate on AI projects
 - 📫 How to reach me: [aramapsychology@gmail.com]
 
