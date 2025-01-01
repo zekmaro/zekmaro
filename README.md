@@ -24,7 +24,7 @@
 ![Zekmaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=zekmaro&show_icons=true&theme=radical)
 
 ## 📊 Leetcode Stats:
-![](https://leetcard.zekmaro.cool/zekmarocool?theme=light,unicorn)
+![](https://leetcard.jacoblin.cool/zekmaro?theme=light,unicorn)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zekmaro&layout=compact&theme=radical)
 
