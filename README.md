@@ -26,6 +26,7 @@
 ## 📊 Leetcode Stats:
 ![](https://leetcard.jacoblin.cool/zekmaro?theme=light,unicorn)
 
+## 📊 Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zekmaro&layout=compact&theme=radical)
 
 ## 📈 Contributions:
